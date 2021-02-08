@@ -1,19 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+08.02.2021
 
 ### Project Title
-Replace the Project Title
+Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This is the 3th project for Udacity's Data Analyst Nanodegree Program where bike rideshare data for a few select cities are used to create a terminal application that gives a set of summary statistics for each city. This is implemented in Python.
 
 ### Files used
-Include the files used
+Pyhton, Pandas
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
-###update1
+##update1
 it's important update v2
 
 ##update2
@@ -21,3 +21,4 @@ it's bikeshare update version
 
 ##update3
 it's bikeshare update version v3 -- bikeshare update
+
