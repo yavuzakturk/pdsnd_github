@@ -116,7 +116,12 @@ def load_data(city, month, day):
 
 
     return df
+    """
+    Loads data for the specified city and filters by month and day if applicable.
 
+    
+        df - Pandas DataFrame containing city data filtered by month and day
+    """
 
 def time_stats(df, month, day):
     """Displays statistics on the most frequent times of travel."""
@@ -282,16 +287,8 @@ def dictionary_filter(df):
             for i in range(n):
                 print(df_new.iloc[i,:])
                 print()
-        else: print("Sorry, we don't have %d customers." % (n))
-        
-     
-
-
-        
-    
-                
-        
-
+        else: print("Sorry, we don't have %d customers..." % (n))
+   
 
 def main():
     while True:
